@@ -1,5 +1,0 @@
-F:\Documents\Visual Studio 2010\Projects\NDESharp\NDESharp\obj\Release\ResolveAssemblyReference.cache
-F:\Documents\Visual Studio 2010\Projects\NDESharp\NDESharp\bin\Release\NDESharp.dll
-F:\Documents\Visual Studio 2010\Projects\NDESharp\NDESharp\bin\Release\NDESharp.pdb
-F:\Documents\Visual Studio 2010\Projects\NDESharp\NDESharp\obj\Release\NDESharp.dll
-F:\Documents\Visual Studio 2010\Projects\NDESharp\NDESharp\obj\Release\NDESharp.pdb
