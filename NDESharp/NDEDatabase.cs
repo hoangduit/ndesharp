@@ -145,7 +145,7 @@ namespace NDESharp
             {
                 // We need to fill our columns variable!
                 foreach (NDEField field in record.fields)
-                    this.columns.Add(((string)field.data).Replace("\0", ""));
+                    this.columns.Add(((string)field.data));
 
                     return null;
             }
@@ -223,7 +223,7 @@ namespace NDESharp
                         {
                             if (column != "tuid2") //just ignore it, it seems to stuff everything up
                             {
-                                songTable.Columns.Add(column, typeof(String));
+                                songTable.Columns.Add(column, typeof(string));
                             }
                         }
                     }
@@ -232,6 +232,7 @@ namespace NDESharp
                 else if (record != null)
                 {
                     DataRow row = songTable.NewRow();
+                    for (int ix = 0; ix < row.ItemArray.Count(); ix++) { row[ix] = ""; }
                     int loc;
                     foreach (var rec in record.variable)
                     {
