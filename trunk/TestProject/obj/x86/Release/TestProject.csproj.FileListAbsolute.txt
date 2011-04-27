@@ -1,0 +1,11 @@
+F:\Documents\Visual Studio 2010\Projects\NDESharp\TestProject\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2010\Projects\NDESharp\TestProject\obj\x86\Release\TestProject.Form1.resources
+F:\Documents\Visual Studio 2010\Projects\NDESharp\TestProject\obj\x86\Release\TestProject.Properties.Resources.resources
+F:\Documents\Visual Studio 2010\Projects\NDESharp\TestProject\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Documents\Visual Studio 2010\Projects\NDESharp\TestProject\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Documents\Visual Studio 2010\Projects\NDESharp\TestProject\bin\Release\TestProject.exe
+F:\Documents\Visual Studio 2010\Projects\NDESharp\TestProject\bin\Release\TestProject.pdb
+F:\Documents\Visual Studio 2010\Projects\NDESharp\TestProject\bin\Release\NDESharp.dll
+F:\Documents\Visual Studio 2010\Projects\NDESharp\TestProject\bin\Release\NDESharp.pdb
+F:\Documents\Visual Studio 2010\Projects\NDESharp\TestProject\obj\x86\Release\TestProject.exe
+F:\Documents\Visual Studio 2010\Projects\NDESharp\TestProject\obj\x86\Release\TestProject.pdb
